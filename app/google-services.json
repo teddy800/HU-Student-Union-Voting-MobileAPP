@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469018804606",
+    "project_id": "hustudentunionvoting-74356",
+    "storage_bucket": "hustudentunionvoting-74356.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469018804606:android:074fc752e37bdde945b32f",
+        "android_client_info": {
+          "package_name": "com.example.hustudentunionpresidentvotingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_aTWO_As9gFBR0tt4GxTjmlZiVLf-W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
